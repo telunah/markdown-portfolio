@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Photo of Golden Gate bridge](https://user-images.githubusercontent.com/99749686/177208159-8dfd0a36-3b04-4cfd-a8cb-cafaf12404c9.jpg)
